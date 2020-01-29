@@ -9,7 +9,7 @@
 * A 4 bit Full Adder
 
 ## Lab3Part3
-######  A 6-to-1 multiplexer that is cable of doing the following:
+* A 6-to-1 multiplexer that is cable of doing the following:
 	
 		case 0 A + B using the adder from Part II of this Lab (ripple-carry adder)
 		case 1 A + B using the Verilog ‘+’ operator
