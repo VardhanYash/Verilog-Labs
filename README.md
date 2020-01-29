@@ -22,4 +22,6 @@
 ## Lab4Part2
 * Using the multiplexer from Lab3Part3 and adding in the ability for data to be stored in a register
 
-
+## Lab4Part3
+* Building a rotating register that allows for shifting of bits
+* Option to rotate bits or apply an arithmetic shift to the bits
