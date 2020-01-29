@@ -17,3 +17,9 @@
 		case 3: Output 8’b0001111 if at least 1 of the 8 bits in the two inputs is 1 (use a single OR operation)
 		case 4: Output 8’b1110000 if exactly 1 bit of the A switches is 1, and exactly 2 bits of the B switches are 1
 		case 5: Display the A switches in the most significant four bits of ALUout and the complement of the B switches in the least significant four bits without complementing the bits individually
+* Output is displayed on the seg7 display
+
+## Lab4Part2
+* Using the multiplexer from Lab3Part3 and adding in the ability for data to be stored in a register
+
+
