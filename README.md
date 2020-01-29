@@ -11,8 +11,8 @@
 ## Lab3Part3
 * A 6-to-1 multiplexer that is cable of doing the following:
 	
-		case 0 A + B using the adder from Part II of this Lab (ripple-carry adder)
-		case 1 A + B using the Verilog ‘+’ operator
+		case 0: A + B using the adder from Part II of this Lab (ripple-carry adder)
+		case 1: A + B using the Verilog ‘+’ operator
 		case 2: A XNOR B in the lower four bits of ALUout and A NAND B in the upper four bits
 		case 3: Output 8’b0001111 if at least 1 of the 8 bits in the two inputs is 1 (use a single OR operation)
 		case 4: Output 8’b1110000 if exactly 1 bit of the A switches is 1, and exactly 2 bits of the B switches are 1
