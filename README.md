@@ -25,3 +25,8 @@
 ## Lab4Part3
 * Building a rotating register that allows for shifting of bits
 * Option to rotate bits or apply an arithmetic shift to the bits
+
+## Lab5Part1
+* Implementing a simple 4 bit synchronous counter using 4 T flip-flops
+
+## Lab5Part2
