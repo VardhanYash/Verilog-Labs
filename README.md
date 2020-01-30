@@ -27,6 +27,22 @@
 * Option to rotate bits or apply an arithmetic shift to the bits
 
 ## Lab5Part1
-* Implementing a simple 4 bit synchronous counter using 4 T flip-flops
+* A simple 4 bit synchronous counter using 4 T flip-flops that operates off user input
 
 ## Lab5Part2
+* A 4 bit counter that counts on its own and is cable of going at 4 different speeds (1/sec, 2/sec, 0.5/sec and 50million/s)
+
+## Lab5Part3
+* A morse code encoder that uses the LEDs to output the code for letters I-P
+
+## Lab6Part1
+* A finite state machine(FSM) used to detect when the pattern "1111" or "1101" is detected in the users input
+
+## Lab6Part2
+* A finite state machine that is used to calculate "Ax^2 + Bx + C" where A, B, C, and x are inputted by the user
+
+## Lab7Part1 
+* A memory module that is able to write/read to/from specific addresses
+
+## Lab7Part2
+* Displaying a 4x4 pixel square onto a specified location and with a specified colour on the VGA display
